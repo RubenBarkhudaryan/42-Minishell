@@ -4,7 +4,6 @@
 This project was developed by:
 - Patvakanyan: https://github.com/Patvakanyan
 - RubenBarkhudaryan: https://github.com/RubenBarkhudaryan
-- @Patvakanyan
 
 ## Overview
 This project is a small shell written in C that reproduces core Bash behavior under 42 constraints.
